@@ -1,0 +1,16 @@
+PODS:
+  - Updates (1.2.2)
+
+DEPENDENCIES:
+  - Updates
+
+SPEC REPOS:
+  trunk:
+    - Updates
+
+SPEC CHECKSUMS:
+  Updates: 6a7fae8b2f99f41160db337823eef8e51f6f29a0
+
+PODFILE CHECKSUM: a7e274521c505d6520992decd75e161091afd41a
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,6 @@
+framework module Pods_UpdateNotifyingDemo {
+  umbrella header "Pods-UpdateNotifyingDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
