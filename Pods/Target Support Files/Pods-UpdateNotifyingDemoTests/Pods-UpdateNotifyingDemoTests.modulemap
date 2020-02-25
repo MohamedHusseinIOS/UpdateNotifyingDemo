@@ -1,6 +1,0 @@
-framework module Pods_UpdateNotifyingDemoTests {
-  umbrella header "Pods-UpdateNotifyingDemoTests-umbrella.h"
-
-  export *
-  module * { export * }
-}

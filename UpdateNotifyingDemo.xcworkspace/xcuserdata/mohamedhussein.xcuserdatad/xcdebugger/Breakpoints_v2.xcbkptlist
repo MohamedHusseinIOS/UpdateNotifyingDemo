@@ -7,32 +7,48 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "BA53904B-C928-4495-9C3C-61DA5317CC86"
+            uuid = "3E1BEC5D-F7FE-4160-B020-EE33F4BC446E"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "UpdateNotifyingDemo/ViewController.swift"
+            filePath = "UpdateNotifyingDemo/View Controllers/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "22"
-            endingLineNumber = "22"
-            landmarkName = "updateNotifying()"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "configureData()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "A63F6D75-746D-4262-9768-434CD934EC6B"
+            uuid = "93457104-0548-4AD3-A98C-F8BC0FE88D6A"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "UpdateNotifyingDemo/ViewController.swift"
+            filePath = "UpdateNotifyingDemo/ViewModels/ViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "29"
-            endingLineNumber = "29"
-            landmarkName = "updateNotifying()"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "checkAppVersion(resEnum:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2ABFF9EC-EA9B-417E-B6AE-28E8094B20D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UpdateNotifyingDemo/Models/Decoerable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "decodeJSON(_:To:format:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

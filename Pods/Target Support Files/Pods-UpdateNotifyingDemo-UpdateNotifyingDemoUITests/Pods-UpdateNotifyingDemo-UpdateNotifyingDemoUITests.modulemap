@@ -1,4 +1,4 @@
-framework module Pods_UpdateNotifyingDemo_UpdateNotifyingDemoUITests {
+module Pods_UpdateNotifyingDemo_UpdateNotifyingDemoUITests {
   umbrella header "Pods-UpdateNotifyingDemo-UpdateNotifyingDemoUITests-umbrella.h"
 
   export *
